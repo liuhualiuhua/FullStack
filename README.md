@@ -8,24 +8,15 @@
 记录自己在学习过程中做的小案例
 
 
+#### 案例清单
 
-#### 软件架构
-全栈
-	包含前端和后端
+[简易计算器1](https://github.com/liuhualiuhua/FullStack/tree/master/cal) (计算皮相)，案例来源《小程序从0到1 微信全栈工程师一本通》
+
+![首页](./cal/index.png)
+![历史记录页面](./cal/history.png)
+
+
+
+
 	
 
-#### 安装教程
-
-
-
-#### 使用说明
-
-#### 参与贡献
-
-1. Fork 本项目
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
