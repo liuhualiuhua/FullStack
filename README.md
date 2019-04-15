@@ -12,8 +12,8 @@
 
 [简易计算器1](https://github.com/liuhualiuhua/FullStack/tree/master/cal) (计算皮相)，案例来源《小程序从0到1 微信全栈工程师一本通》
 
-![首页](./cal/index.png)
-![历史记录页面](./cal/history.png)
+![首页](./cal/index.png)  
+![历史记录页面](./cal/history.png)  
 
 
 
