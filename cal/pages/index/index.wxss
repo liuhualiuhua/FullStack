@@ -1,0 +1,43 @@
+.main-view {
+  text-align: right;
+  width: 100%;
+  padding: 10rpx;
+  font-weight: bold;
+  font-size: 50rpx;
+  box-sizing: border-box;
+  border-top: 1px solid #eee;
+  height: 200rpx;
+  word-wrap: break-word;
+  word-break: normal;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  width: 100%;
+  height: 185rpx;
+  background-color: #eee;
+}
+
+.row view, .row navigator {
+  width: 25%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 1px;
+  margin-right: 1px;
+}
+
+.row view:active {
+  background-color: #f00;
+}
+
+.orange {
+  background: #f77d11;
+}
+
+.blue {
+  background-color: #09c;
+}

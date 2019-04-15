@@ -1,0 +1,5 @@
+<view class="weui-cells">
+  <view class="weui-cell" wx:for="{{logs}}" wx:key="*this">
+    <view class="weui-cell__bd">{{item}}</view>
+  </view>
+</view>
