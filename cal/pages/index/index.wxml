@@ -1,0 +1,39 @@
+<view style="background-color:#d8d8d8;height:100%;">
+  <view class="main-view">
+    {{screenData}}
+  </view>
+  <view bindtap="tapSymbolBtn" style="width: 100%; color: #fff;">
+    <view class="row">
+      <view class="orange" data-symbol="clear">С</view>
+      <view class="orange" data-symbol="back">←</view>
+      <view class="orange" data-symbol="toggle">＋/－</view>
+      <view class="orange" data-symbol="＋">＋</view>
+    </view>
+    <view class="row">
+      <view class="blue" data-symbol="9">9</view>
+      <view class="blue" data-symbol="8">8</view>
+      <view class="blue" data-symbol="7">7</view>
+      <view class="orange" data-symbol="-">－</view>
+    </view>
+    <view class="row">
+      <view class="blue" data-symbol="6">6</view>
+      <view class="blue" data-symbol="5">5</view>
+      <view class="blue" data-symbol="4">4</view>
+      <view class="orange" data-symbol="*">×</view>
+    </view>
+    <view class="row">
+      <view class="blue" data-symbol="3">3</view>
+      <view class="blue" data-symbol="2">2</view>
+      <view class="blue" data-symbol="1">1</view>
+      <view class="orange" data-symbol="÷">÷</view>
+    </view>
+    <view class="row">
+      <navigator url="history" class="blue">
+        <icon type="waiting_circle" color="white" size="25" />
+      </navigator>
+      <view class="blue" data-symbol="0">0</view>
+      <view class="blue" data-symbol=".">.</view>
+      <view class="orange" data-symbol="=">＝</view>
+    </view>
+  </view>
+</view>
