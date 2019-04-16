@@ -1,0 +1,7 @@
+<swiper class='swiper' indicator-dots autoplay='true'>
+  <swiper-item wx:for="{{boards[0].movies}}" wx:key="{{item.id}}">
+    <navigator hover-class='none'>
+      <image style='height:450rpx;width:750rpx' src="{{}}"></image>
+    </navigator>
+  </swiper-item>
+</swiper>
