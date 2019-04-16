@@ -1,0 +1,6 @@
+<swiper class='swiper'   autoplay="false" indicator-dots	>
+  <swiper-item wx:for="{{subjects}}" wx:key="{{item.id}}"  >
+    <image class='swiper-image' src='{{item.images.large}}' mode='aspectFill'></image>
+  </swiper-item>
+</swiper>
+
