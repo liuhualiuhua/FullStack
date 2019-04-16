@@ -5,18 +5,23 @@
 
 
 #### 项目介绍
-记录自己在学习过程中做的小案例
+记录自己做的小案例(包含自己开发的项目，以及从书籍、博客、在线教育等渠道学习到的项目)
 
 
 #### 案例清单
 
-[简易计算器1](https://github.com/liuhualiuhua/FullStack/tree/master/cal) (计算皮相)，案例来源《小程序从0到1 微信全栈工程师一本通》
-
-![首页](./cal/index.png)  
-![历史记录页面](./cal/history.png)  
-
+[简易计算器1](https://github.com/liuhualiuhua/FullStack/tree/master/cal) (计算皮相)，项目来源：《小程序从0到1 微信全栈工程师一本通》  
+![首页-简易计算器1-](./cal/index.png)  
+  
+  
+  
+[简易计算器2](https://github.com/liuhualiuhua/FullStack/tree/master/cal2)(仿Windows计算器)，开源项目：[wxapp-calc](https://github.com/boyce-ywr/wxapp-calc)  
+![首页-简易计算器2-](./cal2/index.gif)     
 
 
 
 	
+
+
+
 
